@@ -1,6 +1,6 @@
 # 🤖 Custom AutoML Platform
 
-A modular, offline-capable AutoML solution built using Python. This platform automates the entire machine learning lifecycle for structured **tabular datasets** — from preprocessing to model training and deployment.
+A modular, Automated Machine Learning solution built using Python. This platform automates the entire machine learning lifecycle for structured **tabular datasets** — from preprocessing to model training and deployment.
 
 ## 📂 Folder Structure
 
